@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18f99098.css",
+    "main.js": "/static/js/main.eb31b737.js",
+    "static/media/chest5.GIF": "/static/media/chest5.7943b4bf366accd35300.GIF",
+    "static/media/chest8.GIF": "/static/media/chest8.12d079a65fee093ecd7d.GIF",
+    "static/media/chest11.GIF": "/static/media/chest11.8e39d110c32f2a0d2db9.GIF",
+    "static/media/chest10.GIF": "/static/media/chest10.710124960a1c12148d96.GIF",
+    "static/media/chest4.GIF": "/static/media/chest4.9b7de14b886a6ff634ea.GIF",
+    "static/media/tricep1.GIF": "/static/media/tricep1.bc947fc09a2c15547924.GIF",
+    "static/media/shoulder2.GIF": "/static/media/shoulder2.810224d286016662dd56.GIF",
+    "static/media/chest6.GIF": "/static/media/chest6.f6006db0c6ea44d506ed.GIF",
+    "static/media/chest12.GIF": "/static/media/chest12.ee5f770ce87297f01228.GIF",
+    "static/media/chest9.GIF": "/static/media/chest9.35e77d4153bdcc207be1.GIF",
+    "static/media/chest2.GIF": "/static/media/chest2.f8018de172772c085ecd.GIF",
+    "static/media/chest1.GIF": "/static/media/chest1.7ce690a3e19429bc0acc.GIF",
+    "static/media/shoulder4.GIF": "/static/media/shoulder4.87378069cce79a404a49.GIF",
+    "static/media/chest7.GIF": "/static/media/chest7.e15e9c95980102ba8eac.GIF",
+    "static/media/chest3.GIF": "/static/media/chest3.b36da5abd50e1d18ceba.GIF",
+    "static/media/shoulder3.GIF": "/static/media/shoulder3.dfb622fdb85ac7f05ce3.GIF",
+    "static/media/tricep2.GIF": "/static/media/tricep2.cb9cd4c3e3d41a8a75f8.GIF",
+    "static/media/shoulder1.GIF": "/static/media/shoulder1.bf1d6318a356e26827d6.GIF",
+    "index.html": "/index.html",
+    "main.18f99098.css.map": "/static/css/main.18f99098.css.map",
+    "main.eb31b737.js.map": "/static/js/main.eb31b737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f99098.css",
+    "static/js/main.eb31b737.js"
+  ]
+}
